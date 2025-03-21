@@ -1,16 +1,3 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-EndGlobal
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a2e07e1d44cda09b64a4bc257f433cb1bf02636ed6e86833f395e16534ae374
+size 917
